@@ -3,6 +3,7 @@
 ![Latest Release](https://img.shields.io/github/tag/apvarun/showcase-hugo-theme.svg)
 ![Showcase hugo theme](https://img.shields.io/github/license/apvarun/showcase-hugo-theme)
 ![Hugo generator](https://img.shields.io/badge/generator-hugo-brightgreen)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc9875ad-f88c-4064-b7f2-043a66ebc096/deploy-status)](https://app.netlify.com/sites/zen-hugle-b6ea4e/deploys)
 
 Showcase is a minimal, single page theme for Hugo
 
