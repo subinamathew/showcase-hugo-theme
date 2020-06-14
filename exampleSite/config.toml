@@ -1,18 +1,17 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
-title = "Showcase Theme"
+baseURL = "https://restoringeden.de"
+languageCode = "en-uk"
+title = "Restoring Eden"
 Paginate = 1000
 googleAnalytics = ""
 theme = "showcase"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [params]
-  author = "showcase"
-  description = "Minimal, one page, theme for showcasing your work"
+  author = "restoringeden"
+  description = "Family, Faith, Germany, Christian, Jesus"
   message = ""
 
 [social]
-  facebook = "https://facebook.com"
-  twitter = "https://twitter.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
+  facebook = "http://facebook.com/restoringeden.de"
+  twitter = "https://twitter.com/restoringedende"
+  instagram = "https://www.instagram.com/restoringeden.de/"
